@@ -1,0 +1,83 @@
+{
+  "adviser": 71312318,
+  "contract": {
+    "affiliationType": "01",
+    "protectionType": "01",
+    "coveragePlan": "00623",
+    "fixedRate": false,
+    "limitRate": "",
+    "keyQuery": "",
+    "address": "CL 2C SUR 79 - 70",
+    "residenceNote": "APTO 401",
+    "departmentCode": "05",
+    "municipalityCode": "05001",
+    "zoneCode": "016",
+    "neighborhoodCode": "00001",
+    "phone": "3023165524",
+    "mobile": "3023165524",
+    "email": "hola@funerariasanvicente.com",
+    "affiliationValue": 50000,
+    "monthlyFeeValue": 30000,
+    "totalBenefitValue": 1000000
+  },
+  "titular": {
+    "exist": true,
+    "identifier": "1000761284",
+    "typeBeneficiary": "1",
+    "typeIdentification": "CC",
+    "identification": "1000761284",
+    "firstName": "Jose",
+    "secondName": "Andres",
+    "lastName": "Asprilla",
+    "secondLastName": "Cepeda",
+    "birthDate": "1965-10-30",
+    "ageYear": "60",
+    "relationshipCode": "000",
+    "gender": "MASCULINO",
+    "maritalStatusCode": "01",
+    "address": "CL 2C SUR 79 - 70",
+    "departmentCode": "05",
+    "municipalityCode": "05001",
+    "zoneCode": "016",
+    "neighborhoodCode": "00001",
+    "country": "01",
+    "phone": "3023165524",
+    "mobile": "3023165524",
+    "email": "sistemas@funerariasanvicente.com",
+    "job": "FUNERARIA SAN VICENTE",
+    "phoneJob": "3059392253"
+  },
+  "beneficiariesPets": [
+    {
+      "typeBeneficiary": "5",
+      "relationshipCode": "026",
+      "name": "SIMON",
+      "birthDate": "2021-10-30",
+      "ageYear": "5",
+      "gender": "HEMBRA",
+      "species": "00001",
+      "breed": "PINCHER",
+      "color": "BEIGE",
+      "weight": 20
+    }
+  ],
+  "beneficiariesHumans": [
+    {
+      "exist": false,
+      "typeBeneficiary": "2",
+      "typeIdentification": "CC",
+      "identification": "1020222280",
+      "firstName": "ANDRUD",
+      "secondName": "ARLES",
+      "lastName": "ACOSTA",
+      "secondLastName": "ARBOLEDA",
+      "birthDate": "1965-10-30",
+      "ageYear": "60",
+      "relationshipCode": "001",
+      "gender": "MASCULINO",
+      "country": "01",
+      "departmentCode": "05",
+      "municipalityCode": "05001"
+    }
+  ]
+}

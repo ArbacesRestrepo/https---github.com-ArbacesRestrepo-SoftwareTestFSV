@@ -1,0 +1,110 @@
+{
+    "identifier": "98588639",
+    "password": "1234567",
+    "clientData": {
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+        "platform": "Win32",
+        "language": "es-CO",
+        "languages": [
+            "es-CO",
+            "es",
+            "en-US",
+            "en"
+        ],
+        "timezone": "America/Bogota",
+        "devicePixelRatio": 1,
+        "hardwareConcurrency": 8,
+        "deviceMemory": 8,
+        "maxTouchPoints": 0,
+        "cookieEnabled": true,
+        "doNotTrack": null,
+        "onLine": true,
+        "operatingSystem": "Windows",
+        "screen": {
+            "width": 1920,
+            "height": 1080,
+            "availWidth": 1920,
+            "availHeight": 1040,
+            "colorDepth": 24,
+            "pixelDepth": 24
+        },
+        "viewport": {
+            "width": 1365,
+            "height": 768
+        },
+        "browser": {
+            "name": "Chrome",
+            "version": "140.0.0.0",
+            "major": "140"
+        },
+        "userAgentData": {
+            "brands": [
+                {
+                    "brand": "Chromium",
+                    "version": "140"
+                },
+                {
+                    "brand": "Google Chrome",
+                    "version": "140"
+                },
+                {
+                    "brand": "Not=A?Brand",
+                    "version": "24"
+                }
+            ],
+            "mobile": false,
+            "platform": "Windows"
+        },
+        "webgl": {
+            "vendor": "Google Inc. (Intel)",
+            "renderer": "ANGLE (Intel, Intel(R) UHD Graphics Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "version": "WebGL 1.0 (OpenGL ES 2.0 Chromium)",
+            "shadingLanguageVersion": "WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)",
+            "extensions": [
+                "ANGLE_instanced_arrays",
+                "EXT_blend_minmax",
+                "EXT_color_buffer_half_float",
+                "EXT_float_blend",
+                "EXT_frag_depth",
+                "EXT_shader_texture_lod",
+                "EXT_texture_compression_bptc",
+                "EXT_texture_filter_anisotropic",
+                "OES_element_index_uint",
+                "OES_standard_derivatives",
+                "OES_texture_float",
+                "WEBGL_debug_renderer_info"
+            ]
+        },
+        "canvasHash": "a8b9f4d1c6e891823f4f4e11db0ab624fb770db6b8c9ed0f8dc4e556c4b5aa10",
+        "audioHash": "62b73f0fb5d7e88272b701e10f9dc7e4adf22e8f46f0907b8cb87129a2dcb07a",
+        "plugins": [
+            {
+                "name": "PDF Viewer",
+                "filename": "internal-pdf-viewer",
+                "description": "Portable Document Format"
+            },
+            {
+                "name": "Chrome PDF Viewer",
+                "filename": "internal-pdf-viewer",
+                "description": "Portable Document Format"
+            }
+        ],
+        "mimeTypes": [
+            {
+                "type": "application/pdf",
+                "suffixes": "pdf",
+                "description": "Portable Document Format"
+            }
+        ],
+        "connection": {
+            "effectiveType": "4g",
+            "downlink": 10,
+            "rtt": 50,
+            "saveData": false
+        },
+        "storage": {
+            "quota": 274877906944,
+            "usage": 10485760
+        }
+    }
+}
